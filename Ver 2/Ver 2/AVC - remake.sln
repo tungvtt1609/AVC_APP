@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVC - remake", "AVC - remake\AVC - remake.csproj", "{30301B65-61FA-48D6-BB95-924B9848FEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30301B65-61FA-48D6-BB95-924B9848FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30301B65-61FA-48D6-BB95-924B9848FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30301B65-61FA-48D6-BB95-924B9848FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30301B65-61FA-48D6-BB95-924B9848FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E17BBDD-762A-42AC-872E-A8BF98BCD77D}
+	EndGlobalSection
+EndGlobal
